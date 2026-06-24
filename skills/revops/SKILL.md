@@ -224,7 +224,7 @@ Build routing rules that prioritize speed. Alert reps immediately. Escalate if S
 
 | Deal Size | Approval Required |
 |-----------|-------------------|
-| Standard pricing | Auto-approved |
+| Standard pricing | Requires user confirmation |
 | 10-20% discount | Sales manager |
 | 20-40% discount | VP Sales |
 | 40%+ discount or custom terms | Deal desk review |
